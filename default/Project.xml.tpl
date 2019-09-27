@@ -45,6 +45,6 @@
 
 	<!-- _________________________________ Custom _______________________________ -->
 
-	<icon path='icon.svg' />
+	<icon path='assets/icon.svg' />
 
 </project>
