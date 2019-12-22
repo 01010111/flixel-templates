@@ -7,7 +7,7 @@
             "cmdOption":"-n"
         },
         {
-            "replacement":"480",
+            "replacement":"360",
             "pattern":"${HEIGHT}",
             "cmdOption":"-h"
         },
