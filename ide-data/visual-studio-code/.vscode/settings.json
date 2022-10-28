@@ -1,5 +1,6 @@
 {
 	"search.exclude": {
-		"export/**/*.hx": true
+		"export/**/*.hx": true,
+		"release/**/*.hx": true,
 	}
 }

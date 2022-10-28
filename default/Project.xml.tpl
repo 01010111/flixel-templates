@@ -4,7 +4,6 @@
 
 	<app title="${PROJECT_NAME}" file="${PROJECT_NAME}" main="Main" version="0.0.1" company="01010111" />
 	<app preloader="flixel.system.FlxPreloader" />
-	<set name="SWF_VERSION" value="11.8" />
 
 	<!-- ____________________________ Window Settings ___________________________ -->
 
@@ -39,9 +38,6 @@
 	<!--<haxedef name="FLX_NO_GAMEPAD" />-->
 	<!--<haxedef name="FLX_NO_SOUND_TRAY" />-->
 	<!--<haxedef name="FLX_NO_SOUND_SYSTEM" />-->
-
-	<haxedef name="PIXEL_PERFECT" />
-	<!-- haxedef name="OGMO" /-->
 
 	<!-- _________________________________ Custom _______________________________ -->
 

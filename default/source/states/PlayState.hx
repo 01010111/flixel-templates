@@ -1,23 +1,15 @@
 package states;
 
-import zero.flixel.states.State;
+import flixel.FlxState;
 
-class PlayState extends State
-{
-
-	public static var instance:PlayState;
-
-	public function new() {
-		super();
-		instance = this;
-	}
+class PlayState extends FlxState {
 
 	override function create() {
 		
 	}
 
-	override function update(e:Float) {
-		super.update(e);
+	override function update(dt:Float) {
+		super.update(dt);
 	}
 
 }
